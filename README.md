@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hiya, I'm Kenzie ✨
+
+🔭 I’m currently working on my master's capstone project - GenoDetect! Also working on PhD Applications, so this space is subject to frequent changes. 
+
+Interests include all things neurodevelopment, microglia & genomics.
+
+😄 Pronouns are She/Her/Hers
 
 <!--
 **mc3435/mc3435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
