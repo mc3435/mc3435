@@ -1,6 +1,6 @@
 ### Hiya, I'm Kenzie ✨
 
-🔭 I’m currently working on my master's capstone project - GenoDetect! Also working on PhD Applications, so this space is subject to frequent changes. 
+🔭 I have recently finished my Master's degree in applied data science, and am working on expanding my portfolio. 
 
 Interests include all things neurodevelopment, microglia & genomics.
 
